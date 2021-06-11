@@ -1,6 +1,5 @@
-# BMAT Assignment
-BMAT recruitment process assignment
-
+# Loudness Classificator
+Proyect that creates a dataset based on metadata written in a SQLite database, extract audio features using Essentia, and use them to train a Keras Fully Connected Neural Network for classification in terms of Loudness
 ## instalation
 
 ```source venv/bin/activate```
